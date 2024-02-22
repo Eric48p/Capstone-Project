@@ -1,2 +1,2 @@
 # Capstone-Project
-UC Merced CSE Capstone Project
+In the fall semester of my senior year at UC Merced, I undertook a project assigned by a stakeholder who sought to enhance their employee training program. The stakeholder expressed a need for a centralized, automated, and streamlined approach, as their existing system lacked customization, was outdated, and resulted in disorganized information with low employee retention. The objective of this project was to revolutionize the stakeholder's management, delivery, and tracking of employee training progress. The envisioned solution involved implementing a centralized platform that facilitates streamlined communication, improves productivity, and efficiently tracks the progress of employee training.
